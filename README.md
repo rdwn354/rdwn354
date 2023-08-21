@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-# Halo semua! 
+# Hello Everyone
 
-- 😄 My name is **Muhamad Ridwan Suryadi**.\
+- 😄 My name is **Muhamad Ridwan Suryadi**.
   
 - 🔭 I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation and       control engineering technology.
   
