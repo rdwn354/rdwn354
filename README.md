@@ -1,13 +1,14 @@
 ### Hi there 👋
 
+### 👨🏻‍💻 &nbsp;About Me
 
-# Hello Everyone
-
-- 😄 My name is **Muhamad Ridwan Suryadi**. 
-- 🔭 I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation and       control engineering technology.
-- 🌱I am currently learning about machine learning with Bangkit Academy 2023 By Google, GoTo, Traveloka - Machine Learning Learning Path
-
-<p align="left">
+😄 &nbsp;My name is Muhamad Ridwan Suryadi.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture and 
+currently learning about machine learning with Bangkit Academy 2023 By Google, GoTo, Traveloka - Machine Learning Learning Path.\
+🔭 &nbsp;I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation 
+   and control engineering technology.
+   
 <a href="https://github.com/gilangadhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
