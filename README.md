@@ -4,7 +4,7 @@
 
 &nbsp;My name is Muhamad Ridwan Suryadi.\
 &nbsp;I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation 
-and control engineering technology.
+and control engineering technology.\
 &nbsp;Here's for my portfolio : https://rdwn354.github.io/
 
 ### 🛠 &nbsp;Tech Stack
