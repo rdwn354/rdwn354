@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-&nbsp;My name is Muhamad Ridwan Suryadi.\
-&nbsp;I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation and control engineering technology.\
-&nbsp;Here's for my portfolio : https://rdwn354.github.io/
+- **Name:** Muhamad Ridwan Suryadi  
+- **Field of Study:** Electrical Engineering, currently pursuing an applied bachelor's degree in Instrumentation and Control Technology at Airlangga University.  
+- **Portfolio:** Explore my work and projects at [my portfolio](https://rdwn354.github.io/).
 
 ### 🛠 &nbsp;Tech Stack
 
