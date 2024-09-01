@@ -3,8 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 &nbsp;My name is Muhamad Ridwan Suryadi.\
-&nbsp;I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation 
-and control engineering technology.\
+&nbsp;I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation and control engineering technology.\
 &nbsp;Here's for my portfolio : https://rdwn354.github.io/
 
 ### 🛠 &nbsp;Tech Stack
@@ -19,6 +18,10 @@ and control engineering technology.\
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/muhamad-ridwan-suryadi"><img src="https://img.shields.io/badge/-Muhamad%20Ridwan%20Suryadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
+  <a href="https://linkedin.com/in/muhamad-ridwan-suryadi">
+    <img src="https://img.shields.io/badge/-Muhamad%20Ridwan%20Suryadi-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:muhamad.ridwan.suryadi.354@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </p>
