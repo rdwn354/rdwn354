@@ -2,12 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-😄 &nbsp;My name is Muhamad Ridwan Suryadi.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and microcontroller and 
-currently learning about machine learning with Bangkit Academy 2023 By Google, GoTo, Traveloka - Machine Learning Learning Path.\
-🔭 &nbsp;I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation 
-   and control engineering technology.
+&nbsp;My name is Muhamad Ridwan Suryadi.\
+&nbsp;I am an **Electrical Enggineering** and studying at Airlangga University as an applied bachelor with a major in instrumentation 
+and control engineering technology.
+&nbsp;Here's for my portfolio : https://rdwn354.github.io/
 
 ### 🛠 &nbsp;Tech Stack
 
