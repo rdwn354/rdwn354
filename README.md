@@ -22,6 +22,6 @@
     <img src="https://img.shields.io/badge/-Muhamad%20Ridwan%20Suryadi-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:muhamad.ridwan.suryadi.354@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/-Muhamad%20Ridwan%20Suryadi-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
